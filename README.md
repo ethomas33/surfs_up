@@ -1,6 +1,6 @@
 # Overview of analysis:
 
-## The purpose of the analysis is well defined. (3 pt)
+## The purpose of the analysis is well defined.
 Results:
 - We have similar number of count of weather values for both June and December.
 - Average temperature in June is 75 and December 71.
